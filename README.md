@@ -1,7 +1,7 @@
 # ExpenseTrackerApp
 
 ### An Expense Tracker App based on the design created by Anastasiia on Dribbble
-It’s an expense tracker concept with detailed overview of expenses and statistics. In this concept a user can view and confirm their expenses, review by categories, periods in both list and chart views
+This is an expense tracker concept with detailed overview of expenses and statistics. In this concept a user can view and confirm their expenses, review by categories, periods in both list and chart views.
 
 ## Built With
 * React Native
