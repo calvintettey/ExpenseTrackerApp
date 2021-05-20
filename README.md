@@ -10,8 +10,7 @@ This is an expense tracker concept with a detailed overview of expenses and stat
 
 ## Screenshots
 
-![Expense Tracker App Scrnsht 1](assets/exptkrscrnsht1.jpg)
-![Expense Tracker App Scrnsht 2](assets/exptkrscrnsht2.jpg)
+![Expense Tracker App Scrnsht 1](assets/scrnsht.png)
 
 
 ## Dribbble Link 
